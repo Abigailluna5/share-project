@@ -11,7 +11,7 @@ user.greet();
 // ARRAY with messages
 let messages = [
   "You are doing amazing today!",
-  "Take a deep breath—you got this.",
+  "Take a deep breath you got this.",
   "Good things are coming your way.",
   "Be proud of how far you’ve come.",
   "You’re stronger than you think."

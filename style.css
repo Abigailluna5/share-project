@@ -2,6 +2,7 @@ body {
   font-family: Arial;
   text-align: center;
   padding-top: 50px;
+  background: cadetblue;
 }
 
 #messageBox {
@@ -19,6 +20,4 @@ button {
   padding: 10px 20px;
   font-size: 16px;
 }
-::backdrop{
-    color: bisque;
-}
+
